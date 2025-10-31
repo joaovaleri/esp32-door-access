@@ -216,6 +216,6 @@ idf.py monitor
 
 **João Victor Valerio**  
 Developer – IMECC / UNICAMP  
-jvalerio@unicamp.br • https://github.com/joaovaleri • https://linkedin.com/in/joaovalerio  
+jvalerio@unicamp.br • https://github.com/joaovaleri • https://www.linkedin.com/in/joao-valerio-dev/  
 
 **License:** MIT
